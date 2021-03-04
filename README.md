@@ -1,5 +1,5 @@
 # TheLogoDB
-Source images from the now defunct TheLogoDB website. 
+Source images from the now defunct TheLogoDB website which specialized in high quality TV station logo's. 
 
 There should be 3,000+ images and they will be updated periodically.
 
